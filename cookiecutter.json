@@ -1,0 +1,9 @@
+{
+  "full_name": "Andrés Aravena",
+  "github_username": "anaraven",
+  "project_name": "Research Project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "A project by {{ cookiecutter.full_name }}",
+  "date": "Folder creation date",
+  "add_dvc": "n"
+}
